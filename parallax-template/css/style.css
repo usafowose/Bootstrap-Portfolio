@@ -5,7 +5,11 @@
  *
  * Made By MaterializeCSS.com
  */
-
+#skillset {
+  color: #52340dd5;
+  text-decoration-line: underline;
+  font-size: 40px;
+}
 nav ul a,
 nav .brand-logo {
   color: #444;
